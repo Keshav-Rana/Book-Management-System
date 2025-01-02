@@ -1,0 +1,13 @@
+@Book_Management_System_HostAddress = http://localhost:5023
+
+GET {{Book_Management_System_HostAddress}}/Book/
+Accept: application/json
+
+###
+
+GET {{Book_Management_System_HostAddress}}/Book/B001234567890123
+Accept: application/json
+
+###
+
+POST {{Book_Management_System_HostAddress}}/Book

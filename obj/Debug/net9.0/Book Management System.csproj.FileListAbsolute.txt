@@ -1,0 +1,45 @@
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/appsettings.Development.json
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/appsettings.json
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Book Management System.staticwebassets.endpoints.json
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Book Management System
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Book Management System.deps.json
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Book Management System.runtimeconfig.json
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Book Management System.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Book Management System.pdb
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/MySqlConnector.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/MySqlConnector.DependencyInjection.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/Book Management System.csproj.AssemblyReference.cache
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/Book Management System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/Book Management System.AssemblyInfoInputs.cache
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/Book Management System.AssemblyInfo.cs
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/Book Management System.csproj.CoreCompileInputs.cache
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/Book Management System.MvcApplicationPartsAssemblyInfo.cs
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/Book Management System.MvcApplicationPartsAssemblyInfo.cache
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/scopedcss/bundle/Book Management System.styles.css
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/staticwebassets.build.json
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/staticwebassets.development.json
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/staticwebassets/msbuild.Book Management System.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/staticwebassets/msbuild.Book Management System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/staticwebassets/msbuild.build.Book Management System.props
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Book Management System.props
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Book Management System.props
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/Book Man.520F064F.Up2Date
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/Book Management System.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/refint/Book Management System.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/Book Management System.pdb
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/Book Management System.genruntimeconfig.cache
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/ref/Book Management System.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/Debug/net9.0/Book Management System.sourcelink.json
+/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/bin/Debug/net9.0/Documentation/BMS.postman_collection.json
