@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Book Management System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ba8855cb4a1ded2531151846e0c34b409181bbb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+697f259ac12f5f05a7efc28cc7de5ba0a093f53d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Book Management System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Book Management System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
