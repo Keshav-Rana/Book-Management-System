@@ -11,3 +11,4 @@ For detailed documentation, refer to documentation folder
 3. Clone the repository
 4. Create the database: mysql -u root -p -e "CREATE DATABASE IF NOT EXISTS BMS;"
 5. Import the schema using the given schema file: mysql -u root -p BMS < schema_only.sql
+6. Run the app using dotnet run.
