@@ -611,11 +611,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/Book Management System.csproj",
+      "projectUniqueName": "/Users/kr/Desktop/Projects/Book Management System/Book Management System.csproj",
       "projectName": "Book Management System",
-      "projectPath": "/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/Book Management System.csproj",
+      "projectPath": "/Users/kr/Desktop/Projects/Book Management System/Book Management System.csproj",
       "packagesPath": "/Users/kr/.nuget/packages/",
-      "outputPath": "/Users/kr/Desktop/LearnCSharpDotNet/Book Management System/obj/",
+      "outputPath": "/Users/kr/Desktop/Projects/Book Management System/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kr/.nuget/NuGet/NuGet.Config"
